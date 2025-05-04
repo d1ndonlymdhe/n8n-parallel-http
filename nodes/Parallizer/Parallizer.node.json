@@ -4,9 +4,6 @@
 	"codexVersion": "1.0",
 	"categories": ["Miscellaneous"],
 	"resources":{
-		"credentialDocumentation":[{
-			"url":"https://github.com/d1ndonlymdhe/parallel-http"
-		}],
 		"primaryDocumentation":[{
 			"url":"https://github.com/d1ndonlymdhe/parallel-http"
 		}]

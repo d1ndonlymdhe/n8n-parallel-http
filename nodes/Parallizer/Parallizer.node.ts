@@ -16,12 +16,6 @@ export class Parallizer implements INodeType {
 		defaults: {
 			name: 'Parallizer',
 		},
-		credentials:[
-			{
-				name: 'parallizerApi',
-				required: false,
-			},
-		],
 		inputs: ['main'],
 		outputs: ['main'],
 		properties: [
